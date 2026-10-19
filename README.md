@@ -16,20 +16,13 @@ Previously, I received my bachelor's degree in Automation from **Tianjin Univers
 
 ## 🔬 Research
 
-### TGQ-Former
+### Text-Guided Visual Representation Learning for Robust Multimodal E-Commerce Recommendation
 **KDD 2026 · Oral · Third author**
 
 Text-guided visual representation learning for large-scale e-commerce item-to-item retrieval. Hybrid semantic and learnable queries help distinguish product evidence from promotional text and background noise.
 
 - **H@100: 65.19% → 69.13%** in full-pool retrieval with approximately 134K candidate products.
 - Contributed to hybrid-query connector development and experimental analysis of gated modulation and redundancy reduction.
-
-### CREAM
-**Manuscript under review · First author**
-
-*Cross-modal Reciprocal Elicitation and Attribute Mining*
-
-A framework for robust multimodal product understanding through foreground/background disentanglement, vision-guided title refinement, and semantic modeling of scene and style attributes.
 
 ### Earlier research
 **ICAIS & ISAS 2025 · First author**
@@ -66,8 +59,6 @@ Adapted Qwen3-VL-2B on the OLIVES OCT dataset with LoRA SFT and DPO. Structured 
 **JD.com · Recommendation Algorithm Intern**  
 January–June 2026
 
-Designed the CREAM framework for robust multimodal product retrieval, with work on foreground/background disentanglement, fine-grained title denoising, and scene/style attribute mining.
-
 - Industrial full-pool retrieval **H@100: 65.19% → 75.11%**, an improvement of **9.92 percentage points**.
 - Conducted evaluations on industrial data and the public Tmall Product dataset.
 
@@ -78,7 +69,7 @@ Designed the CREAM framework for robust multimodal product retrieval, with work 
 | **Tsinghua University** | Master's student, Department of Automation | 2026–2028 (expected) |
 | **Tianjin University** | Bachelor's degree, Automation | 2022–2026 |
 
-Undergraduate **rank: 1/185** · **GPA: 3.96/4.0** · **Weighted average: 94.74/100**
+Undergraduate **rank: 1/185** · **GPA: 3.97/4.0** · **Weighted average: 94.74/100**
 
 ## 🏅 Selected Honors
 
