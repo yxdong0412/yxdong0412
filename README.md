@@ -1,6 +1,6 @@
-<img src="assets/portrait.jpg" align="right" width="180" alt="Yixuan Dong / 董怡萱" />
-
 # Hi, I'm Yixuan Dong 👋
+
+<img src="assets/portrait.jpg" align="right" width="180" alt="Yixuan Dong / 董怡萱" />
 
 ### 董怡萱 · Tsinghua University
 
